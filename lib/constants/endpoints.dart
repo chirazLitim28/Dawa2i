@@ -1,0 +1,2 @@
+const String api_endpoint_medication_searchbybarcode="https://flask-hello-world-psi-green.vercel.app/medication.searchByNameOrBarcode/";
+const String api_endpoint_searchbyname_or_barcode ='https://flask-hello-world-psi-green.vercel.app/medication.searchByNameOrBarcode/';
